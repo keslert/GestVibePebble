@@ -1,0 +1,23 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "shellguo95@gmail.com",
+    "longName": "Running App C",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Running App C",
+    "uuid": "3e6a050b-4167-450b-8a5a-4889b2b9a005",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
